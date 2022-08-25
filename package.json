@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "typecheck": "nuxt typecheck"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.8",
+    "typescript": "^4.7.4",
+    "vue-tsc": "^0.40.1"
+  }
+}
